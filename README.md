@@ -1,6 +1,6 @@
 This is a responsive online store webpage, which contains adaptive slider, pop-up windows and dropdown submenu
 <br/>
-![Laptop version](screenshot/lg-screen.png) 
+![Laptop version](screenshot/large-screen.png) 
 <br/>
 <br/>
 This is how cart pop-up and menu dropdown looks like
@@ -11,4 +11,4 @@ This is how cart pop-up and menu dropdown looks like
 Small screen sizes
 <br/>
 <br/>
-![Mobile version](screenshot/sm-screen.png)
+![Mobile version](screenshot/small-screen.png)
